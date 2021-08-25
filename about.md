@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-![image](https://github.com/LWFlouisa/SRWeaverEmirotamo/blob/main/images/tumblr_569a0d396523db17f2b1311d16ed963d_4ec9e045_1280.jpg?raw=true)
+![image](https://raw.githubusercontent.com/LWFlouisa/EmirotamoSynd/main/images/threehundredbuilding.png)
 
 This is the syndication portion of Emirotamo.
 
