@@ -1,5 +1,5 @@
 ---
-title: Tue 24 Aug 2021 11:12:58 PM EDT
+title: Guillotined Girl
 author: SRWeaver
 tags: webcomic comicspoetry illustrations
 ---
